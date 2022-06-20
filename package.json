@@ -1,7 +1,7 @@
 {
 	
 	"name": "fcc-learn-npm-package-json",
-	"author": "Mayanja Andrew",
+	"author": "MayanjaAndrew",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
